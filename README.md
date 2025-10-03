@@ -1,4 +1,6 @@
 # Travel Insurance x World Bank Arrivals Data – Business Analytics Project  
+<img width="1440" height="938" alt="image" src="https://github.com/user-attachments/assets/e17cab46-8fb9-46a8-9f56-2e841ae14395" />
+
 
 This project integrates **Travel Insurance transactional data** with **World Bank International Tourism Arrivals data** to provide market-normalized insights into travel insurance sales, claims, demographics, and destinations. The combination of internal sales data with global tourism arrivals helps evaluate performance relative to market size, not just raw volumes.  
 
