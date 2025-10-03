@@ -1,6 +1,6 @@
 # Travel Insurance x World Bank Arrivals Data – Business Analytics Project 
 🔗 [Tableau Dashboard]([https://public.tableau.com/views/your-dashboard-link](https://public.tableau.com/shared/HQCPT84GM?:display_count=n&:origin=viz_share_link))
-
+https://public.tableau.com/views/your-dashboard-link](https://public.tableau.com/shared/HQCPT84GM?:display_count=n&:origin=viz_share_link
 
 <img width="1440" height="938" alt="image" src="https://github.com/user-attachments/assets/e17cab46-8fb9-46a8-9f56-2e841ae14395" />
 
